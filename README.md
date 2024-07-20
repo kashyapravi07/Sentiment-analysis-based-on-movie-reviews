@@ -22,11 +22,6 @@ The dataset used for this project is a collection of movie reviews, which can be
 
 **Installation**
 
-Clone the repository:
-
-git clone https://github.com/your-username/sentiment-analysis-movie-reviews.git
-cd sentiment-analysis-movie-reviews
-
 Create and activate a virtual environment (optional but recommended):
 
 python -m venv venv
